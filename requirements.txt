@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+snowflake-connector-python
+pymongo
+pydantic
+python-dotenv
+dash
+plotly
+requests
+pandas
